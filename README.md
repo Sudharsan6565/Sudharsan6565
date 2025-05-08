@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Sudharsan!
 
 🚀 AWS Cloud Engineer | DevOps Explorer | Full-Stack Builder of Production-Ready Systems  
-🌎 On a global job hunt — remote/hybrid — ready to ship AWS solutions at scale.
+🌎 On a global roles — **remote/hybrid** — ready to ship **real AWS solutions at scale**.
 
 ## 🔥 Highlight Project – [ODIN](https://github.com/Sudharsan6565/AWS-ASSISTANT-ODIN)
 **ODIN: Your AWS Cost Sidekick.**  
-Built with real AWS data, push notifications, mobile app + web console — all without using Cost Explorer (no extra billing)!
+Built with real AWS data, push notifications, mobile app + web console — all without using **Cost Explorer** (no extra billing)!
 
 - 📱 Android App with live budget alerts  
 - 📊 Web Dashboard using React + Tailwind  
